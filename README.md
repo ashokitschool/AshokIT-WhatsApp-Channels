@@ -12,7 +12,7 @@ https://whatsapp.com/channel/0029VbAU9ntBlHpTyMDC270m
 https://whatsapp.com/channel/0029VbA8U9I9cDDXkHEdGx1d
 ```
 
-## UI Fullstack WhatsApp Channel ##
+## UI Fullstack + React JS WhatsApp Channel ##
 
 ```
 https://whatsapp.com/channel/0029Vb5t8Jq2ER6ZFvSEOA3k
