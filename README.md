@@ -65,3 +65,9 @@ https://whatsapp.com/channel/0029Vb5ltbmF6sn6cGNd3i3E
 ```
 https://whatsapp.com/channel/0029Vb69TUZId7nVjPlF0n47
 ```
+
+## Data Engineers with Snowflake ##
+
+```
+https://whatsapp.com/channel/0029Vb5tAoC2f3EDv2Xipk0C
+```
